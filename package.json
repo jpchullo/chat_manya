@@ -1,0 +1,26 @@
+{
+  "name": "chat-manya",
+  "version": "0.0.1",
+  "description": "chat demo para manya.pe",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "git repository: https://github.com/jpmaster2012/chat_manya.git",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpmaster2012/chat_manya.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io"
+  ],
+  "author": "jpmaster",
+  "license": "Apache Licence",
+  "readmeFilename": "README.md",
+  "gitHead": "2e2026a84c03f2397e4fde24c3cd0168cc86c709"
+}
